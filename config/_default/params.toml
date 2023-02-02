@@ -9,7 +9,7 @@ colorScheme = "custom"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 
 mainSections = ["docs"]
