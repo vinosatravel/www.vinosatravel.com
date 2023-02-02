@@ -1,0 +1,16 @@
+@font-face {
+    font-family: font;
+    src: url('/fonts/vinosatravel_font.ttf');
+}
+
+h1 {
+    font-family: font;
+}
+
+h2 {
+    font-family: font;
+}
+
+nav {
+    font-family: font;
+}

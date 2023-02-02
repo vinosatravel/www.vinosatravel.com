@@ -1,0 +1,46 @@
+[[main]]
+  name = "About Us"
+  url = "/"
+  weight = 10
+
+[[main]]
+  name = "Packages"
+  weight = 20
+
+[[main]]
+  name = "Tour"
+  parent = "Packages"
+  pageRef = "packages"
+  weight = 10
+
+  [[main]]
+  name = "Transportation"
+  parent = "Packages"
+  pageRef = "packages"
+  weight = 10
+
+[[main]]
+  name = "Contact Us"
+  pageRef = "contact_us"
+  weight = 40
+
+[[main]]
+  name = "Book Now !"
+  pageRef = "book_now"
+  weight = 50
+
+
+ [[footer]]
+   name = "Sitemap"
+   pageRef = "sitemap"
+   weight = 40
+
+    [[footer]]
+   name = "Privacy Policy"
+   pageRef = "privacy_policy"
+   weight = 30
+
+    [[footer]]
+   name = "Terms and Conditions"
+   pageRef = "tnc"
+   weight = 20

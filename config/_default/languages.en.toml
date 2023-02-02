@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "VINOSA TRAVEL"
+logo = "img/vinosatravel_logo-500x500/vinosatraveltransparent_logo.png"
+description = "Adventure | Leisure | Tour"
+copyright = ":copyright: 2023 Vinosa Travel | Powered by Hugo | Designed by @conan97zhang"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Vinosa Travel"
+  image = "img/vinosatravel_logo-500x500/vinosatravel_logo.png"
+  headline = "Adventure | Leisure | Tour"
+  bio = "Advanture | Leisure | Tour"
+  links = [
+    { instagram = "https://www.instagram.com/vinosa.travel" },
+    { facebook = "https://www.facebook.com/vinosatravel" },
+    { twitter ="https://twitter.com/vinosa_travel" },
+    { youtube ="https://www.youtube.com/channel/UCcBLlpAvw9ir2RgpjXKraqg" },
+    { email ="mailto:info@vinosatravel.com" },
+  ]
