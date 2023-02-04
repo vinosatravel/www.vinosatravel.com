@@ -16,7 +16,7 @@ dateFormat = "2 January 2006"
   name = "Vinosa Travel"
   image = "img/vinosatravel_logo-500x500/vinosatravel_logo.png"
   headline = "Adventure | Leisure | Tour"
-  bio = "Advanture | Leisure | Tour"
+  bio = "Adventure | Leisure | Tour"
   links = [
     { circle-info = "/stay-connected" },
   ]
