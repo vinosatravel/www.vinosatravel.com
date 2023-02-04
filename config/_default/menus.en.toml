@@ -20,18 +20,18 @@
   weight = 10
 
 [[main]]
-  name = "Contact Us"
-  pageRef = "contact-us"
+  name = "Get Involved"
+  pageRef = "get-involved"
   weight = 30
 
 [[main]]
-  name = "Get Involved"
-  pageRef = "get-involved"
+  name = "Contact Us"
+  pageRef = "contact-us"
   weight = 40
 
 [[main]]
   name = "Book Now!"
-  pageRef = "book_now"
+  pageRef = "book-now"
   weight = 50
 
 
