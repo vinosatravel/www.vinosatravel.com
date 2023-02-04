@@ -21,6 +21,13 @@
   pageRef = "about-us"
   weight = 3
 
+    [[main]]
+  name = "Documentation"
+  parent = "About Us"
+  pageRef = "about-us"
+  weight = 3
+
+
 [[main]]
   name = "Blog"
   pageRef = "blog"
