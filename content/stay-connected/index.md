@@ -44,6 +44,7 @@ Behasa | English
 
 - For collaboration opportunities with Vinosa Travel Transport Services
 - For B2B communication
+- For Logo / Schematic usage
 - For featuring of Vinosa Travel on your website
 - Corporate related enquiries
 
@@ -57,7 +58,6 @@ Behasa | English
 {{< icon "telegram" >}} [+62 852-7218-7318](https://t.me) (Mr. Rasdhie). <br>
 
 - For Legal Support
-- For Logo / Schematic usage
 
 ## Technical Support
 
