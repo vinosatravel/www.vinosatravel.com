@@ -18,5 +18,5 @@ dateFormat = "2 January 2006"
   headline = "Adventure | Leisure | Tour"
   bio = "Advanture | Leisure | Tour"
   links = [
-    { circle-info = "contact-us" },
+    { circle-info = "/stay-connected" },
   ]
