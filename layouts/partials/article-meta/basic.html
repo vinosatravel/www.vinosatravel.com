@@ -45,9 +45,11 @@
 {{ if and (eq $scope "single") (.Params.showEdit | default (.Site.Params.article.showEdit | default true)) }}
 {{ $meta.Add "partials" (slice (partial "meta/edit.html" .)) }}
 {{ end }}
+
 {{ if and (eq $scope "single") (.Params.showPrintasPDF | default (.Site.Params.article.showPrintasPDF | default true)) }}
 {{ $meta.Add "partials" (slice (partial "meta/printaspdf.html" .)) }}
 {{ end }}
+
 
 
 <div class="flex flex-row flex-wrap items-center">

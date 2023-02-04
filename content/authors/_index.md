@@ -1,11 +1,10 @@
 ---
-title: "Conan ZHANG"
+title: "Meet The Team"
 draft: false
-slug: "conanzhang"
+slug: "meet-the-team"
 tags: ["about us", "authors"]
 ---
 
-Who we are at Vinosa Travels and Transport Service
 
 
 
