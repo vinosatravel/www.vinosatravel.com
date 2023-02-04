@@ -1,0 +1,10 @@
+{
+    "name": "Raswiadi",
+    "image" : "img/authors/raswiadi.jpeg",
+    "bio": "Founder & Agent (Singapore) of Vinosa Travel",
+    "social": [
+        { "instagram": "https://www.instagram.com/rasdhie_" },
+        { "email": "mailto:raswi.adi@vinosatravel.com" },
+        { "web": "https://vinosatravel.com/about-us/meet-the-team#raswiadi" }
+    ]
+}
