@@ -21,11 +21,16 @@
 
 [[main]]
   name = "Contact Us"
-  pageRef = "contact_us"
+  pageRef = "contact-us"
+  weight = 30
+
+[[main]]
+  name = "Get Involved"
+  pageRef = "get-involved"
   weight = 40
 
 [[main]]
-  name = "Book Now !"
+  name = "Book Now!"
   pageRef = "book_now"
   weight = 50
 
@@ -37,10 +42,10 @@
 
     [[footer]]
    name = "Privacy Policy"
-   pageRef = "privacy_policy"
+   pageRef = "documentation/privacy-policy"
    weight = 30
 
     [[footer]]
    name = "Terms and Conditions"
-   pageRef = "tnc"
+   pageRef = "documentation/terms-and-conditions"
    weight = 20

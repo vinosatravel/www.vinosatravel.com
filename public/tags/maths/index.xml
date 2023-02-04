@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maths on VINOSA TRAVEL</title>
+    <link>www.vinosatravel.com/tags/maths/</link>
+    <description>Recent content in maths on VINOSA TRAVEL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>:copyright: 2023 Vinosa Travel | Powered by Hugo | Designed by @conan97zhang</copyright>
+    <lastBuildDate>Fri, 08 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="www.vinosatravel.com/tags/maths/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematical notation</title>
+      <link>www.vinosatravel.com/samples/mathematical-notation/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>www.vinosatravel.com/samples/mathematical-notation/</guid>
+      <description>&lt;p&gt;KaTeX can be used to render mathematical notation within articles.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
