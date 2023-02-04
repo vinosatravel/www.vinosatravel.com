@@ -49,6 +49,7 @@ smartTOCHideUnfocusedChildren = true
   showBreadcrumbs = true
   showDraftLabel = false
   showEdit = true
+  showPrintasPDF = true
   
   editURL = "https://github.com/vinosatravel/www.vinosatravel.com/tree/main/content"
   editAppendPath = true

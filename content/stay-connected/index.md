@@ -4,8 +4,7 @@ draft: false
 slug: "stay-connected"
 tags: ["stay-connected"]
 ---
-<button style="background-color: yellow; padding: 1px 10px; font-size: 13px; border-radius: 30%;" onclick="window.print()">Print as PDF {{< icon "download" >}}</button>
-<hr>
+
 
 ## Operating Hours
 
