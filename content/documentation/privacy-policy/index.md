@@ -39,5 +39,5 @@ The `Company` takes reasonable measures to protect the security of your informat
 The `Company` may update this Policy WITHOUT EXPLICIT NOTIFICATION. Your continued use of the `Services` after any changes to this Policy constitutes your acceptance of the Policy as modified.
 
 ## 8. Contact Us
-If you have any questions or concerns regarding this Policy, please contact the `Company` at the following: {{< typeit >}} `legal@vinosatravel.com`{{< /typeit >}}
+If you have any questions or concerns regarding this Policy, please contact the `Company` at the following: `legal@vinosatravel.com`
 

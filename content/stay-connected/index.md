@@ -21,8 +21,6 @@ tags: ["stay-connected"]
 {{< icon "facebook" >}} [@vinosatravel](https://www.facebook.com/vinosatravel/). <br>
 {{< icon "youtube" >}} [@vinosagroup2228](https://www.youtube.com/@vinosagroup2228/). <br>
 
-hi
-
 ## General Enquiry
 {{< badge >}}
 Behasa | English
