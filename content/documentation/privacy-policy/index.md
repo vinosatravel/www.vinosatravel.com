@@ -4,6 +4,8 @@ draft: false
 slug: "privacy-policy"
 tags: ["legal"]
 ---
+<button style="background-color: yellow; padding: 1px 10px; font-size: 13px; border-radius: 30%;" onclick="window.print()">Print as PDF {{< icon "download" >}}</button>
+<hr>
 
 ## 1. Introduction
 This Privacy Policy (the "Policy") sets forth the practices of www.vinosatravel.com (the `"Company"`) with respect to the collection, use, and disclosure of personal information of individuals who use the Company's website and services (collectively, the `"Services"`). By accessing or using the `Services`, you agree to the terms of this Policy.

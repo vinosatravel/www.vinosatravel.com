@@ -1,18 +1,11 @@
-# -- Theme Options --
-# These options control how the theme functions and allow you to
-# customise the display of your website.
-#
-# Refer to the theme docs for more details about each of these parameters.
-# https://blowfish.page/docs/configuration/#theme-parameters
-
 colorScheme = "custom"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
-enableSearch = false
+enableSearch = true
 enableCodeCopy = false
 
-mainSections = ["docs"]
+mainSections = ["/"]
 # robots = ""
 
 disableImageOptimization = true
@@ -39,7 +32,7 @@ smartTOCHideUnfocusedChildren = true
   showRecent = false
   showRecentItems = 10
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "/stay-connected"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -66,10 +59,10 @@ smartTOCHideUnfocusedChildren = true
   showTableOfContents = true
   showTaxonomies = true 
   showAuthorsBadges = false 
-  showWordCount = true
+  showWordCount = false
   showSummary = true
   showDescription = true
-  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
+
 
 [list]
   showHero = true
@@ -121,7 +114,7 @@ smartTOCHideUnfocusedChildren = true
   appId = "1:60108104191:web:039842ebe1370698b487ca"
   measurementId = "G-PEDMYR1V0K"
 
-[fathomAnalytics]
+#[fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
