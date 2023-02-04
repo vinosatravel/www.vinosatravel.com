@@ -1,12 +1,12 @@
 {
     "name": "Conan ZHANG",
     "image" : "img/authors/conanzhang.jpg",
-    "bio": "IT Manager & Agent (Singapore)",
+    "bio": "IT Manager & Agent (Singapore) at Vinosa Travel",
     "social": [
         { "linkedin": "https://www.linkedin.com/in/conan97zhang/" },
         { "instagram": "https://instagram.com/conan97zhang" },
         { "github": "https://github.com/conan97zhang" },
         { "email": "mailto:conan.zhang@czdev.sg" },
-        { "web": "https://www.czdev.sg/founder" }
+        { "link": "https://www.czdev.sg/founder" }
     ]
 }
