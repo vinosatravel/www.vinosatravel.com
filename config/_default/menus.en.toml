@@ -4,29 +4,57 @@
   weight = 10
 
 [[main]]
-  name = "Packages"
-  weight = 20
+  name = "Vinosa Travel and Transport Services"
+  parent = "About Us"
+  pageRef = "about-us"
+  weight = 1
 
 [[main]]
-  name = "Tour"
-  parent = "Packages"
-  pageRef = "packages"
-  weight = 10
+  name = "Our Promise"
+  parent = "About Us"
+  pageRef = "about-us"
+  weight = 2
 
   [[main]]
-  name = "Transportation"
-  parent = "Packages"
-  pageRef = "packages"
-  weight = 10
+  name = "Meet The Team"
+  parent = "About Us"
+  pageRef = "about-us"
+  weight = 3
 
 [[main]]
-  name = "Get Involved"
-  pageRef = "get-involved"
+  name = "Blog"
+  pageRef = "blog"
   weight = 30
 
+        [[main]]
+  name = "Case Zero Development [Featured!]"
+  parent = "Blog"
+  pageRef = "blog"
+  weight = 1
+
+      [[main]]
+  name = "Our Travellers"
+  parent = "Blog"
+  pageRef = "blog"
+  weight = 2
+
+    [[main]]
+  name = "What to Eat!"
+  parent = "Blog"
+  pageRef = "blog"
+  weight = 3
+
+    [[main]]
+  name = "Where to Stay!"
+  parent = "Blog"
+  pageRef = "blog"
+  weight = 4
+
+
+
 [[main]]
-  name = "Contact Us"
-  pageRef = "contact-us"
+  name = "Stay Connected"
+  pageRef = "stay-connected"
   weight = 40
 
 [[main]]

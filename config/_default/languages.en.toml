@@ -18,9 +18,5 @@ dateFormat = "2 January 2006"
   headline = "Adventure | Leisure | Tour"
   bio = "Advanture | Leisure | Tour"
   links = [
-    { instagram = "https://www.instagram.com/vinosa.travel" },
-    { facebook = "https://www.facebook.com/vinosatravel" },
-    { twitter ="https://twitter.com/vinosa_travel" },
-    { youtube ="https://www.youtube.com/channel/UCcBLlpAvw9ir2RgpjXKraqg" },
-    { email ="mailto:info@vinosatravel.com" },
+    { circle-info = "contact-us" },
   ]
