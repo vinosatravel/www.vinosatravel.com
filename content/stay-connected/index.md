@@ -19,6 +19,7 @@ tags: ["stay-connected"]
 {{< icon "instagram" >}} [@vinosa.travel](https://www.instagram.com/vinosa.travel/). <br>
 {{< icon "facebook" >}} [@vinosatravel](https://www.facebook.com/vinosatravel/). <br>
 {{< icon "youtube" >}} [@vinosagroup2228](https://www.youtube.com/@vinosagroup2228/). <br>
+{{< icon "tiktok" >}} [@vinosa.travel](https://www.tiktok.com/@vinosa.travel/). <br>
 
 ## General Enquiry
 {{< badge >}}
