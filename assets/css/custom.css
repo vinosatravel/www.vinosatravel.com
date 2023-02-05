@@ -21,3 +21,15 @@ nav {
 #menu-wrapper {
     font-family: font;
 }
+
+p.uppercase {
+    text-transform: uppercase;
+  }
+  
+a.lowercase {
+    text-transform: lowercase;
+  }
+  
+p.capitalise {
+    text-transform: capitalize;
+  }

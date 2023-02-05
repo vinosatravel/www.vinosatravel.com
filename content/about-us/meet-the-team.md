@@ -1,6 +1,6 @@
 ---
 title: "Meet The Team"
-tags: ["authors", "about us"]
+tags: ["agents", "about us"]
 showAuthor: false
 authors:
   - "raswiadi"
