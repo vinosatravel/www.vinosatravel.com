@@ -4,9 +4,9 @@
     "image" : "img/authors/raswiadi.jpeg",
     "bio": "Founder & Agent (Indonesia) at Vinosa Travel",
     "social": [
+        { "linkedin": "https://www.linkedin.com/in/raswiadi-ar-b7230837/" },
         { "instagram": "https://www.instagram.com/rasdhie_" },
         { "email": "mailto:raswi.adi@vinosatravel.com" },
-        { "linkedin": "https://www.linkedin.com/in/raswiadi-ar-b7230837/" },
         { "link": "https://vinosatravel.com/our-agents/raswiadi" }
 
         
