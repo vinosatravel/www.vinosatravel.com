@@ -1,25 +1,20 @@
 [[main]]
   name = "About Us"
-  url = "/"
+  url = "about-us"
   weight = 10
 
 [[main]]
-  name = "Vinosa Travel and Transport Services"
+  name = "Vision and Mission"
   parent = "About Us"
-  pageRef = "about-us"
+  pageRef = "about-us/vision-and-mission"
   weight = 1
 
 [[main]]
-  name = "Our Promise"
+  name = "Our Agents"
   parent = "About Us"
-  pageRef = "about-us"
+  pageRef = "about-us/our-agents"
   weight = 2
 
-  [[main]]
-  name = "Meet The Team"
-  parent = "About Us"
-  pageRef = "about-us"
-  weight = 3
 
     [[main]]
   name = "Documentation"
