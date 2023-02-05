@@ -1,6 +1,6 @@
 ---
 title: "Meet Our Agents"
-tags: ["agents", "about us"]
+tags: ["our agents", "about us"]
 showAuthor: false
 authors:
   - "raswiadi"
