@@ -16,7 +16,7 @@ Over 20 years in the hospitality industry (Hotel, Tours & Travel) experiences. T
 HUMAN RESOURCES - HEAD HUNTER: 
 Human Resource Management, negotiation, business development and recruitment specializes in the placement of professionals within the Shipyards, Marine Offshore, Oil & Gas, Engineering Services & Hospitality Industry.
 
-## My role in Vinosa Travel
+## My role at Vinosa Travel
 
 As the Founder and Agent (Indonesia) of Vinosa Travel, I ...
 
