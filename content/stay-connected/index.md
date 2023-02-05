@@ -1,8 +1,11 @@
 ---
-title: "stay connected"
+title: "Stay Connected"
 draft: false
 slug: "stay-connected"
 tags: ["stay-connected"]
+date: 2023-02-01
+description: "Stay Connected"
+summary: "Stay Connected with Vinosa Travel"
 ---
 
 

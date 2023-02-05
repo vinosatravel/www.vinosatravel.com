@@ -2,7 +2,7 @@
 title: "Conan ZHANG"
 draft: false
 slug: "conanzhang"
-tags: ["about us", "our agents"]
+tags: ["our agents"]
 showAuthor: false
 authors:
   - "conanzhang"

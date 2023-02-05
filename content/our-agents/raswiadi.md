@@ -2,7 +2,7 @@
 title: Raswiadi
 draft: false
 slug: "raswiadi"
-tags: ["about us", "our-agents"]
+tags: ["our-agents"]
 showAuthor: false
 authors:
   - "raswiadi"
