@@ -1,6 +1,5 @@
 [[main]]
   name = "About Us"
-  url = "about-us"
   weight = 10
 
 [[main]]
@@ -19,7 +18,7 @@
     [[main]]
   name = "Documentation"
   parent = "About Us"
-  pageRef = "about-us"
+  pageRef = ""
   weight = 3
 
 
@@ -29,10 +28,16 @@
   weight = 30
 
         [[main]]
-  name = "Case Zero Development [Featured!]"
+  name = "Case Zero Development"
   parent = "Blog"
   pageRef = "blog"
   weight = 1
+
+      [[main]]
+  name = "Getting to Indonesia"
+  parent = "Blog"
+  pageRef = "blog"
+  weight = 2.1
 
       [[main]]
   name = "Our Travellers"

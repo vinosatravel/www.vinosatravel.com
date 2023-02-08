@@ -3,6 +3,7 @@ title: "Legal | Terms and Conditions"
 draft: false
 slug: "terms-and-conditions"
 tags: ["legal"]
+date: 2023-02-01
 ---
 
 

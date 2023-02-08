@@ -7,4 +7,3 @@ tags: ["about us"]
 
 Who we are at Vinosa Travels and Transport Service
 
-{{< article link="/about-us/vision-and-mission" >}}

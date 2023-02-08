@@ -4,8 +4,10 @@ draft: false
 slug: "conanzhang"
 tags: ["our agents"]
 showAuthor: false
+date: 2023-02-01
 authors:
   - "conanzhang"
+  
 ---
 
 ## Bio
@@ -25,8 +27,3 @@ As the IT Manager and Agent (Singapore) of Vinosa Travel, I oversee and manage t
 In collaboration with the founder of Vinosa Travel as well as my team at Case Zero Development, Singapore , we play a pivotal role in fostering a strong partnership between our organisations, enabling us to provide more opportunities for youth engagement in overseas volunteerism initiatives. 
 
 We are eager to establish relationships and work with a growing number of schools and organisations to achieve our shared goals.
-
-
-
-
-

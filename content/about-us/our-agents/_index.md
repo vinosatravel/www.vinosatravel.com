@@ -1,8 +1,9 @@
 ---
 title: "Meet Our Agents"
 tags: ["about us"]
-showAuthor: false
+showAuthor: true
 authors:
   - "raswiadi"
   - "conanzhang"
 ---
+

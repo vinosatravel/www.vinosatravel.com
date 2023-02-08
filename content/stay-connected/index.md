@@ -15,14 +15,15 @@ summary: "Stay Connected with Vinosa Travel"
 
 ## Location
 
-{{< icon "location-dot" >}} [Vinosa Travel & Tour, Taxi, Car Rental Tanjung Pinang Bintan](https://maps.app.goo.gl/XdFZ113xwLZXWxkp7/). <br>
+{{< icon "location-dot" >}} [Vinosa Travel & Transport Service](https://maps.app.goo.gl/XdFZ113xwLZXWxkp7/). <br>
 
 ## Social Media
 
-{{< icon "instagram" >}} [@vinosa.travel](https://www.instagram.com/vinosa.travel/). <br>
-{{< icon "facebook" >}} [@vinosatravel](https://www.facebook.com/vinosatravel/). <br>
-{{< icon "youtube" >}} [@vinosagroup2228](https://www.youtube.com/@vinosagroup2228/). <br>
-{{< icon "tiktok" >}} [@vinosa.travel](https://www.tiktok.com/@vinosa.travel/). <br>
+{{< icon "linkedin" >}} [Connect with us on LinkedIn!](https://www.linkedin.com.company/vinosatravel/). <br>
+{{< icon "instagram" >}} [Follow us on Instagram!](https://www.instagram.com/vinosa.travel/). <br>
+{{< icon "facebook" >}} [Follow us on our Facebook Page!](https://www.facebook.com/vinosatravel/). <br>
+{{< icon "youtube" >}} [Subscribe to our Youtube Channel!](https://www.youtube.com/@vinosagroup2228/). <br>
+{{< icon "tiktok" >}} [Follow us on TikTok!](https://www.tiktok.com/@vinosa.travel/). <br>
 
 ## General Enquiry
 {{< badge >}}
