@@ -72,7 +72,7 @@ Behasa | English
 English
 {{< /badge >}}
 
-{{< icon "email" >}} [informationtechnology@vinosatravel.com](mailto:informationtechnology@vinosatravel.com). <br>
+{{< icon "email" >}} [informationtechnology@vinosatravel.com](mailto:td-itinfra_vinosatravel.com@czdev.sg). <br>
 {{< icon "telegram" >}} [@conan97zhang](https://conan97zhang.t.me) (Mr. Conan).
 
 - For technical support
