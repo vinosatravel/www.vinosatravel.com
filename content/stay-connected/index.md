@@ -12,7 +12,6 @@ summary: "Stay Connected with Vinosa Travel"
 ## Operating Hours
 
 24/7
-
 ## Location
 
 {{< icon "location-dot" >}} [Vinosa Travel & Transport Service](https://maps.app.goo.gl/XdFZ113xwLZXWxkp7/). <br>
