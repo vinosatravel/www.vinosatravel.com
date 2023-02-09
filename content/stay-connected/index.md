@@ -19,6 +19,7 @@ summary: "Stay Connected with Vinosa Travel"
 
 ## Social Media
 
+<a href="www.google.com">Google</a><br>
 {{< icon "linkedin" >}} [Connect with us on LinkedIn!](https://www.linkedin.com.company/vinosatravel/). <br>
 {{< icon "instagram" >}} [Follow us on Instagram!](https://www.instagram.com/vinosa.travel/). <br>
 {{< icon "facebook" >}} [Follow us on our Facebook Page!](https://www.facebook.com/vinosatravel/). <br>
