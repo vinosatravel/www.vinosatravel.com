@@ -1,61 +1,13 @@
 [[main]]
   name = "About Us"
+  pageRef = "about-us"
   weight = 10
-
-[[main]]
-  name = "Vision and Mission"
-  parent = "About Us"
-  pageRef = "about-us/vision-and-mission"
-  weight = 1
-
-[[main]]
-  name = "Our Agents"
-  parent = "About Us"
-  pageRef = "about-us/our-agents"
-  weight = 2
-
-
-    [[main]]
-  name = "Documentation"
-  parent = "About Us"
-  pageRef = ""
-  weight = 3
 
 
 [[main]]
   name = "Blog"
-  pageRef = "blog"
-  weight = 30
-
-        [[main]]
-  name = "Case Zero Development"
-  parent = "Blog"
-  pageRef = "blog"
-  weight = 1
-
-      [[main]]
-  name = "Getting to Indonesia"
-  parent = "Blog"
-  pageRef = "blog"
-  weight = 2.1
-
-      [[main]]
-  name = "Our Travellers"
-  parent = "Blog"
-  pageRef = "blog"
-  weight = 2
-
-    [[main]]
-  name = "What to Eat!"
-  parent = "Blog"
-  pageRef = "blog"
-  weight = 3
-
-    [[main]]
-  name = "Where to Stay!"
-  parent = "Blog"
-  pageRef = "blog"
-  weight = 4
+  pageRef = "Blog"
+  weight = 20
 
 
 

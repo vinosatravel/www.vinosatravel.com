@@ -10,7 +10,7 @@ logo = "img/vinosatravel_logo-500x500/vinosatravel_logo.png"
 description = "Adventure | Leisure | Tour"
 copyright = ":copyright: 2023 Vinosa Travel | Secured by CloudFlare | Designed by @conan97zhang"
 
-dateFormat = "2 January 2006"
+dateFormat = "2 Jan 2006"
 
 [author]
   name = "Vinosa Travel"

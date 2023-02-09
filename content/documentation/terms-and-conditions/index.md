@@ -2,8 +2,10 @@
 title: "Legal | Terms and Conditions"
 draft: false
 slug: "terms-and-conditions"
-tags: ["legal"]
+tags: ["documentation"]
 date: 2023-02-01
+description: "Terms and Conditions"
+summary: "Terms and Conditions"
 ---
 
 

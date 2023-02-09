@@ -2,8 +2,10 @@
 title: "Legal | Privacy Policy"
 draft: false
 slug: "privacy-policy"
-tags: ["legal"]
+tags: ["documentation"]
 date: 2023-02-01
+description: "Privacy Policy"
+summary: "Privacy Policy"
 ---
 
 
