@@ -12,6 +12,10 @@ summary: "This article provides information on the requirements for entering Ind
 
 Planning a trip to Indonesia? This article will guide you through the requirements and steps for entering the country.
 
+## Current Measures on Mask Wearing
+
+It is not mandatory to don a mask in public, but it is advisable to do so.
+
 ## Step 1: Ferry / plane ticket
 
 To begin your journey, you will need to purchase a ferry or plane ticket. You have the option to purchase your ticket through a travel agency or directly from the respective websites. 
