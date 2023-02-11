@@ -8,13 +8,19 @@ description: "Guide to Entering Singapore: Requirements and Steps"
 summary: "This article provides information on the requirements for entering Singapore, including steps for obtaining a ferry/plane ticke, and fulfilling pre-departure prerequisites. Information on visit visas and arrival in Singapore is also included."
 ---
 
+## Statement on new border measures
+
+{{< youtube o6dDOkPh7mk >}}
+
+
+
 ## Introduction
 
 Planning a trip to or returning to Singapore? This article will guide you through the requirements and steps for entering the country.
 
 ## Current Measures on Mask Wearing
 
-It is not mandatory to don a mask in public, but it is advisable to do so.
+It is not mandatory to don a mask in public (including public transportation), but it is advisable to do so.
 
 ## Step 1: Ferry / plane ticket
 
@@ -78,5 +84,9 @@ If your country exists on [Visa Matters | Immigration and Checkpoints Authority]
 ## Step 4: Arrival in Singapore
 
 Welcome to Singapore, please follow its country's laws and regulations.
+
+### Sounds of Singapore with Charlie Puth​
+{{< youtube RYKj9TH-yh8 >}}
+
 
 
