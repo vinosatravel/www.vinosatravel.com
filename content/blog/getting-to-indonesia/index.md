@@ -10,7 +10,7 @@ summary: "This article provides information on the requirements for entering Ind
 
 ## Introduction
 
-Planning a trip to Indonesia? This article will guide you through the requirements and steps for entering the country..
+Planning a trip to Indonesia? This article will guide you through the requirements and steps for entering the country.
 
 ## Current Measures on Mask Wearing
 
@@ -57,7 +57,7 @@ Please seek your Tour Guide's advise on the recommended amount needed for your t
 ### Do I need to bring my country's passport?
 
 {{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
-Yes, you need to produce your country's original passport throughout your immigration clearance
+Yes, you need to produce your country's original passport (minimum validity of 6 months at the time of departure) throughout your immigration clearance
 
 IMPORTANT: It is up to the country's discretion in permitting entry
 
@@ -66,7 +66,7 @@ IMPORTANT: It is up to the country's discretion in permitting entry
 ### Do I need to bring my country's identity card / visa?
 
 {{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
-Yes, you need to produce your country's identity card / visa to ensure a smooth clearance at the Indonesia border.
+Yes, you need to produce your country's identity card / visa (minimum validity of 6 months at the time of departure) to ensure a smooth clearance at the Indonesia border.
 
 IMPORTANT: It is up to the country's discretion in permitting entry
 {{< /alert >}} <br>
@@ -115,10 +115,13 @@ Here's how to obtain it, depending on your passport type:
 
 {{< alert icon="check" cardColor="yellow" iconColor="black" textColor="black" >}}
 The requirement for a visit visa in Indonesia depends on the country that issued your passport. 
+
+IMPORTANT: Possession of a valid visa does not guarantee entry into Indonesia.
+
 {{< /alert >}}
 
 
-#### Visa Exemption
+#### Visa Exemption (No Visa needed)
 
 <b><i>(Last updated on January 31, 2023)</i></b><br>
 {{< icon "link" >}} [ASEAN countries](https://kemlu.go.id/singapore/en/pages/bebas_visa_kunjungan%28bvk%29/754/about-service#:~:text=FREE%20VISA%20FOR%20ASEAN%20TOURISTS%20(30%20DAYS%20ONLY)%3A). <br>
@@ -126,7 +129,7 @@ The requirement for a visit visa in Indonesia depends on the country that issued
 - You are allowed to stay in Indonesia for up to 30 (thirty) days, and this stay is not extendable.
 - Your passport must be valid for at least 6 (six) months.
 - You must have a return/onward journey ticket and proof of accommodation (you may find further information from your relevant agent).
-- This visa is free of charge.
+- Free of charge.
 
 
 #### Visa-on-Arrival (At Counter)

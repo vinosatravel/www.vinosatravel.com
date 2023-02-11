@@ -22,9 +22,10 @@ Planning a trip to or returning to Singapore? This article will guide you throug
 
 {{< alert icon="xmark" cardColor="red" iconColor="white" textColor="white" >}}
 No, It is not mandatory to don a mask in public (Incl. Bus / MRT / Taxi), but it is advisable to do so.
-{{< /alert >}}
+{{< /alert >}}<br>
+
 {{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
-Yes, you will still be required to wear a mask in Healcare Settings (Clinics, Hospitals etc.)
+Yes, you will still be required to wear a mask in Healthcare Settings (Clinics, Hospitals etc.)
 {{< /alert >}}
 
 ## Step 1: Ferry / plane ticket
@@ -67,7 +68,7 @@ Please seek your Tour Guide's advise on the recommended amount needed for your t
 ### Do I need to bring my country's passport?
 
 {{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
-Yes, you need to produce your country's original passport throughout your immigration clearance
+Yes, you need to produce your country's original passport (minimum validity of 6 months at the time of departure) throughout your immigration clearance 
 
 IMPORTANT: It is up to the country's discretion in permitting entry
 
@@ -76,7 +77,7 @@ IMPORTANT: It is up to the country's discretion in permitting entry
 ### Do I need to bring my country's identity card / visa?
 
 {{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
-Yes, you need to produce your country's identity card / visa to ensure a smooth clearance at the Singapore border.
+Yes, you need to produce your country's identity card / visa (minimum validity of 6 months at the time of departure) to ensure a smooth clearance at the Singapore border.
 
 IMPORTANT: It is up to the country's discretion in permitting entry
 
@@ -127,9 +128,9 @@ The requirement for a visit visa in Singapore depends on the country that issued
 - Sufficient funds to maintain themselves during their stay in Singapore; and,
 - [Yellow Fever Vaccination (if applicable)](https://www.ica.gov.sg/enteranddeparting/before/yellow)
 
-Generally, if you are a citizen in one of the (10) [ASEAN countries](https://asean.org/member-states/), you do not require a Visa to enter Singapore.
+Generally, if you are a citizen in one of the (10) [ASEAN countries](https://asean.org/member-states/), you **do not** require a Visa to enter Singapore.
 
-If your country exists on [Visa Matters | Immigration and Checkpoints Authority](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements), you will need a valid visa.
+- If your country exists on [Visa Requirements | Immigration and Checkpoints Authority](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements), you will need a visa to enter Singapore.
 
 ## Step 4: Arrival in Singapore
 
