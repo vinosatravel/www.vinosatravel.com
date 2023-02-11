@@ -18,9 +18,11 @@ It is not mandatory to don a mask in public, but it is advisable to do so.
 
 ## Step 1: Ferry / plane ticket
 
-To begin your journey, you will need to purchase a ferry or plane ticket. You have the option to purchase your ticket through a travel agency or directly from the respective websites. 
-
+{{< alert >}}
 Please note that ticket issuance may vary by the ticketing company, so be sure to inquire about any required documentation.
+{{< /alert >}}
+
+To begin your journey, you will need to purchase a ferry or plane ticket. You have the option to purchase your ticket through a travel agency or directly from the respective websites. 
 
 ## Step 2: "PeduliLindungi" application.
 
@@ -51,21 +53,28 @@ For Singapore Residents, for example:
 
 ### Do I need a negative PCR test result?
 
+{{< alert >}}
+Please check with your airline for any onboarding requirements.
+{{< /alert >}}
+
 No, a negative PCR test result is not required to enter the country. 
 
-However, please check with your airline for any onboarding requirements.
 
 ### Do I need COVID-19 travel insurance?
 
-No, COVID-19 travel insurance is not required for entry into Indonesia. 
+{{< alert >}}
+It is highly recommended to have travel insurance in case you become ill during your trip.
+{{< /alert >}}
 
-However, it is highly recommended to have travel insurance in case you become ill during your trip.
+No, COVID-19 travel insurance is not required for entry into Indonesia. 
 
 ### Do I need to fill up an indonesia contact tracing form before departure?
 
-No, there is no need to fill out a contact tracing form prior to your arrival in Indonesia. 
+{{< alert >}}
+It is a good idea to check with your travel agency or ticket issuer for any specific requirements.
+{{< /alert >}}
 
-However, it is a good idea to check with your travel agency or ticket issuer for any specific requirements.
+No, there is no need to fill out a contact tracing form prior to your arrival in Indonesia. 
 
 ### Do I need to produce a valid proof of vaccination?
 
@@ -100,7 +109,7 @@ The requirement for a visit visa in Indonesia depends on the country that issued
 - Your passport must be valid for at least 6 (six) months.
 - You must have a return/onward journey ticket and proof of accommodation (you may find further information from your relevant agent).
 
-- The fee for the eVOA is IDR 500.000/- by CASH only at the VOA counter.
+- The fee for the VOA is IDR 500.000/- by **CASH ONLY** at the VOA counter.
 
 #### Electronic Visa-on-Arrival (eVOA)
 

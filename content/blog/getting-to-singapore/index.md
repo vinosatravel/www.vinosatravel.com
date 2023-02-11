@@ -24,9 +24,13 @@ It is not mandatory to don a mask in public (including public transportation), b
 
 ## Step 1: Ferry / plane ticket
 
+{{< alert >}}
+Please note that ticket issuance may vary by the ticketing company, so be sure to inquire about any required documentation.
+{{< /alert >}}
+
 To begin your journey, you will need to purchase a ferry or plane ticket. You have the option to purchase your ticket through a travel agency or directly from the respective websites. 
 
-Please note that ticket issuance may vary by the ticketing company, so be sure to inquire about any required documentation.
+
 
 ## Step 2: Submit electronic health declaration card (SG Arrival Card)
 
@@ -40,7 +44,6 @@ All travellers are required to submit your SG Arrival Card before arriving in Si
 
 - Those transiting/transferring through Singapore without seeking immigration clearance; and
 Residents travelling through the land checkpoints. 
-- Please note that the SG Arrival Card is not a visa. You may refer to the requirements for entering Singapore for more information.
 
 ## Step 3: Pre-departure checklist;
 
@@ -48,21 +51,29 @@ As a tourist, it is your responsibility to ensure that your travel documents mee
 
 ### Do I need a negative PCR test result?
 
-No, a negative PCR test result is not required to enter the country. 
+{{< alert >}}
+Please check with your airline for any onboarding requirements.
+{{< /alert >}}
 
-However, please check with your airline for any onboarding requirements.
+No, a negative PCR test result is not required to enter the country. 
 
 ### Do I need a COVID-19 travel insurance?
 
-No, COVID-19 travel insurance is not required for entry into Singapore. 
+{{< alert >}}
+It is highly recommended to have travel insurance in case you become ill during your trip.
+{{< /alert >}}
 
-However, it is highly recommended to have travel insurance in case you become ill during your trip.
+No, COVID-19 travel insurance is not required for entry into Singapore. 
 
 ### Do I need to produce a valid proof of vaccination?
 
+{{< alert >}}
+It is highly recommended to have have one with you in the event that you fall ill during your trip in Singapore (For example, claiming for medical insurance).
+{{< /alert >}}
+
 No, a valid proof of vaccination is not required for entry into Singapore. 
 
-However, it is highly recommended to have have one with you in the event that you fall ill during your trip in Singapore (For example, claiming for medical insurance).
+
 
 ### Do I need a Visit Visa?
 {{< alert icon="bell" cardColor="#e63946" iconColor="white" textColor="white" >}}
