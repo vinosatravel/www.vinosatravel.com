@@ -27,7 +27,7 @@ No, It is not mandatory to don a mask in public (Incl. Bus / MRT / Taxi), but it
 ## Step 1: Ferry / plane ticket
 
 {{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
-Yes, you will be required to purchase a ferry or plane ticket for entry into Indonesia.
+Yes, you will be required to purchase a ferry or plane ticket for entry into Singapore.
 {{< /alert >}}
 
 You have the option to purchase your ticket through a travel agency or directly from the respective websites. 
