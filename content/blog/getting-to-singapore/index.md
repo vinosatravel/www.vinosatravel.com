@@ -1,5 +1,5 @@
 ---
-title: "Entering Singapore"
+title: "Entering Singapore (After 13 Feb 2023)"
 draft: false
 slug: "getting-to-singapore"
 tags: ["blog"]
