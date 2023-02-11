@@ -10,7 +10,7 @@ summary: "This article provides information on the requirements for entering Ind
 
 ## Introduction
 
-Planning a trip to Indonesia? This article will guide you through the requirements and steps for entering the country.
+Planning a trip to Indonesia? This article will guide you through the requirements and steps for entering the country..
 
 ## Current Measures on Mask Wearing
 
