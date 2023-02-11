@@ -14,25 +14,35 @@ Planning a trip to Indonesia? This article will guide you through the requiremen
 
 ## Current Measures on Mask Wearing
 
-It is not mandatory to don a mask in public, but it is advisable to do so.
+{{< alert icon="xmark" cardColor="red" iconColor="white" textColor="white" >}}
+No, It is not mandatory to don a mask in public, but it is advisable to do so.
+{{< /alert >}}
 
 ## Step 1: Ferry / plane ticket
 
-{{< alert >}}
-Please note that ticket issuance may vary by the ticketing company, so be sure to inquire about any required documentation.
+{{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
+Yes, you will be required to purchase a ferry or plane ticket for entry into Indonesia.
 {{< /alert >}}
 
-To begin your journey, you will need to purchase a ferry or plane ticket. You have the option to purchase your ticket through a travel agency or directly from the respective websites. 
+You have the option to purchase your ticket through a travel agency or directly from the respective websites. 
+
+Please note that ticket issuance may vary by the ticketing company, so be sure to inquire about any required documentation.
+
+
 
 ## Step 2: "PeduliLindungi" application.
 
-To protect public health and prevent the spread of COVID-19, visitors to Indonesia are required to register their COVID-19 vaccination certificate using the "PeduliLindungi" app. The app can be downloaded from the following sources:
+{{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
+Yes, you will be required to register your COVID-19 vaccination certificate using the "PeduliLindungi" app.
+{{< /alert >}}
+
+The app can be downloaded from the following sources:
 
 - [Android Play Store](http://bit.ly/Android-PL)
 - [Apple App Store](https://apple.co/2K7TNj1)
 - [Huawei App Galley](https://appgallery.huawei.com/#/app/C102542717)
 
-Please register an account [here](https://www.pedulilindungi.id/register)
+Please register an account [here](https://www.pedulilindungi.id/register).
 
 ## Step 3: Pre-departure prerequisites;
 
@@ -40,45 +50,47 @@ As a tourist, it is your responsibility to ensure that your travel documents mee
 
 ### Do I need to bring my country's identity card / visa?
 
-{{< alert icon="bell" cardColor="#e63946" iconColor="white" textColor="white" >}}
-IMPORTANT: It is up to the country's discretion in permitting entry
-{{< /alert >}}
-
+{{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
 Yes, you need to produce your country's identity card / visa to ensure a smooth clearance at the Indonesia border.
+
+IMPORTANT: It is up to the country's discretion in permitting entry
+{{< /alert >}} <br>
 
 For Singapore Residents, for example:
 - Singapore Citizen / Singapore PR have to bring along your Pink / Blue NRIC repectively
 - Singapore Long Term Visit Pass (Student's Pass, EP, SPass, Work Permit) holdeer must bring along your Green card.
 - Singapore Short Term Term Visit Pass holdeer must bring along a printed version of your eVisa.
 
+
 ### Do I need a negative PCR test result?
 
-{{< alert >}}
-Please check with your airline for any onboarding requirements.
+{{< alert icon="xmark" cardColor="red" iconColor="white" textColor="white" >}}
+No, a negative PCR test result is not required for entry into Indonesia.
 {{< /alert >}}
 
-No, a negative PCR test result is not required to enter the country. 
-
+However, some airlines have specific requirements, please check with them for any onboarding requirements.
 
 ### Do I need COVID-19 travel insurance?
 
-{{< alert >}}
-It is highly recommended to have travel insurance in case you become ill during your trip.
-{{< /alert >}}
-
+{{< alert icon="xmark" cardColor="red" iconColor="white" textColor="white" >}}
 No, COVID-19 travel insurance is not required for entry into Indonesia. 
+{{< /alert >}}
 
 ### Do I need to fill up an indonesia contact tracing form before departure?
 
-{{< alert >}}
-It is a good idea to check with your travel agency or ticket issuer for any specific requirements.
+{{< alert icon="xmark" cardColor="red" iconColor="white" textColor="white" >}}
+No, contact tracing form is not required for entry into Indonesia. 
 {{< /alert >}}
 
-No, there is no need to fill out a contact tracing form prior to your arrival in Indonesia. 
+It is a good idea to check with your travel agency or ticket issuer for any specific requirements.
 
 ### Do I need to produce a valid proof of vaccination?
 
-Yes, proof of vaccination is mandatory to enter Indonesia. Here's how to obtain it, depending on your passport type:
+{{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
+Yes, proof of vaccination is required for entry into Indonesia. 
+{{< /alert >}}
+
+Here's how to obtain it, depending on your passport type:
 
 - For Singapore Citizen/Permanent Resident/Long-Term Visit Pass holders: Obtain a digital or printable vaccination certificate through [Notarise@SG](https://www.notarise.gov.sg/) - <b>SingPass required </b>
 
@@ -86,7 +98,10 @@ Yes, proof of vaccination is mandatory to enter Indonesia. Here's how to obtain 
 
 ### Do I need a Visit Visa?
 
-The requirement for a visit visa in Indonesia depends on the country that issued your passport.
+{{< alert icon="check" cardColor="yellow" iconColor="black" textColor="black" >}}
+The requirement for a visit visa in Indonesia depends on the country that issued your passport. 
+{{< /alert >}}
+
 
 #### Visa Exemption
 
@@ -125,6 +140,6 @@ The requirement for a visit visa in Indonesia depends on the country that issued
 
 ## Step 4: Arrival in Indonesia
 
-Welcome to indonesia!
+Welcome to indonesia, please follow its country's laws and regulations.
 
 
