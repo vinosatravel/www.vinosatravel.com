@@ -36,6 +36,19 @@ Please register an account [here](https://www.pedulilindungi.id/register)
 
 As a tourist, it is your responsibility to ensure that your travel documents meet Indonesia's border measures. Here's what you need to know:
 
+### Do I need to bring my country's identity card / visa?
+
+{{< alert icon="bell" cardColor="#e63946" iconColor="white" textColor="white" >}}
+IMPORTANT: It is up to the country's discretion in permitting entry
+{{< /alert >}}
+
+Yes, you need to produce your country's identity card / visa to ensure a smooth clearance at the Indonesia border.
+
+For Singapore Residents, for example:
+- Singapore Citizen / Singapore PR have to bring along your Pink / Blue NRIC repectively
+- Singapore Long Term Visit Pass (Student's Pass, EP, SPass, Work Permit) holdeer must bring along your Green card.
+- Singapore Short Term Term Visit Pass holdeer must bring along a printed version of your eVisa.
+
 ### Do I need a negative PCR test result?
 
 No, a negative PCR test result is not required to enter the country. 
@@ -54,7 +67,7 @@ No, there is no need to fill out a contact tracing form prior to your arrival in
 
 However, it is a good idea to check with your travel agency or ticket issuer for any specific requirements.
 
-### Do I need to proof of vaccination?
+### Do I need to produce a valid proof of vaccination?
 
 Yes, proof of vaccination is mandatory to enter Indonesia. Here's how to obtain it, depending on your passport type:
 
