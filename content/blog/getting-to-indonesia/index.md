@@ -44,9 +44,24 @@ The app can be downloaded from the following sources:
 
 Please register an account [here](https://www.pedulilindungi.id/register).
 
-## Step 3: Pre-departure prerequisites;
+## Step 3: Pre-departure checklist;
 
 As a tourist, it is your responsibility to ensure that your travel documents meet Indonesia's border measures. Here's what you need to know:
+
+### What is the official currency?
+
+The official currency is `Indonesian Rupiah (IDR)`
+
+Please seek your Tour Guide's advise on the recommended amount needed for your trip.
+
+### Do I need to bring my country's passport?
+
+{{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
+Yes, you need to produce your country's original passport throughout your immigration clearance
+
+IMPORTANT: It is up to the country's discretion in permitting entry
+
+{{< /alert >}} <br>
 
 ### Do I need to bring my country's identity card / visa?
 

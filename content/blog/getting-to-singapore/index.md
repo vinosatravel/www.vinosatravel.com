@@ -23,6 +23,9 @@ Planning a trip to or returning to Singapore? This article will guide you throug
 {{< alert icon="xmark" cardColor="red" iconColor="white" textColor="white" >}}
 No, It is not mandatory to don a mask in public (Incl. Bus / MRT / Taxi), but it is advisable to do so.
 {{< /alert >}}
+{{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
+Yes, you will still be required to wear a mask in Healcare Settings (Clinics, Hospitals etc.)
+{{< /alert >}}
 
 ## Step 1: Ferry / plane ticket
 
@@ -55,6 +58,20 @@ Residents travelling through the land checkpoints.
 
 As a tourist, it is your responsibility to ensure that your travel documents meet Singapore's border measures. Here's what you need to know:
 
+### What is the official currency?
+
+The official currency is `Singapore Dollar (SGD)`
+
+Please seek your Tour Guide's advise on the recommended amount needed for your trip.
+
+### Do I need to bring my country's passport?
+
+{{< alert icon="check" cardColor="green" iconColor="white" textColor="white" >}}
+Yes, you need to produce your country's original passport throughout your immigration clearance
+
+IMPORTANT: It is up to the country's discretion in permitting entry
+
+{{< /alert >}} <br>
 
 ### Do I need to bring my country's identity card / visa?
 
