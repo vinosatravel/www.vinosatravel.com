@@ -11,16 +11,22 @@
 
 
 
+
+
 [[main]]
-  name = "Stay Connected"
-  pageRef = "stay-connected"
-  weight = 40
+  name = "Packages"
+  pageRef = "packages"
+  weight = 41
 
 [[main]]
   name = "Book Now!"
   pageRef = "book-now"
   weight = 50
 
+[[main]]
+  name = "Stay Connected"
+  pageRef = "stay-connected"
+  weight = 51
 
  [[footer]]
    name = "Sitemap"
